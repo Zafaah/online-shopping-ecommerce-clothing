@@ -3,32 +3,32 @@
 A new Flutter project.
 
 ## Getting Started
+
+## Register Page 
+<img src='./assets/screen/Register.png' width='300px'/>
+
 ## Login Page 
 <img src='./assets/screen/Loging.png' width='300px'/>
 
-## Register Page 
-<img src='./asset/screen/Register.png' width='300px'/>
+## Home Page 
+<img src='./assets/screen/Home1.png' width='300px'/>
 
 ## Home Page 
-<img src='./asset/screen/Home1.png' width='300px'/>
-
-## Home Page 
-<img src='./asset/screen/home2.png' width='300px'/>
-
-## Cart Page 
-<img src='./asset/screen/Carts.png' width='300px'/>
-
-## Fav Page 
-<img src='./asset/screen/Fav.png' width='300px'/>
+<img src='./assets/screen/home2.png' width='300px'/>
 
 ## Detail Page 
-<img src='./asset/screen/Detail.png' width='300px'/>
+<img src='./assets/screen/Detail.png' width='300px'/>
+
+## Cart Page 
+<img src='./assets/screen/Carts.png' width='300px'/>
+
+## Fav Page 
+<img src='./assets/screen/Fav.png' width='300px'/>
 
 ## Profile Page 
-<img src='./asset/screen/profile.png' width='300px'/>
+<img src='./assets/screen/profile.png' width='300px'/>
 
-## Category Detail Page 
-<img src='./snapshots/single category page.png' width='300px'/>
+
 
 This project is a starting point for a Flutter application.
 
