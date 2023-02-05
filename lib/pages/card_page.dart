@@ -17,7 +17,7 @@ class CardPages extends StatelessWidget {
                   const Padding(
                     padding: EdgeInsets.only(top: 20, left: 10, bottom: 10),
                     child: Text(
-                      'Order List',
+                      'carts ',
                       style: TextStyle(
                           color: Color.fromARGB(255, 19, 18, 18),
                           fontSize: 30,
@@ -55,7 +55,7 @@ class CardPages extends StatelessWidget {
                                 height: 3,
                               ),
                               Text(
-                                '\$202',
+                                '\$212.9',
                                 style: TextStyle(
                                   fontSize: 20,
                                 ),
@@ -290,25 +290,6 @@ class CardPages extends StatelessWidget {
                           ),
 
                           //
-                          const Divider(
-                            color: Colors.black,
-                          ),
-                          Padding(
-                            padding: const EdgeInsets.symmetric(vertical: 10),
-                            child: Row(
-                              mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                              children: const [
-                                Text(
-                                  "Sub-total",
-                                  style: TextStyle(fontSize: 18),
-                                ),
-                                Text(
-                                  "\$202",
-                                  style: TextStyle(fontSize: 18),
-                                ),
-                              ],
-                            ),
-                          ),
 
                           // total
                           const Divider(
@@ -326,7 +307,7 @@ class CardPages extends StatelessWidget {
                                       fontWeight: FontWeight.bold),
                                 ),
                                 Text(
-                                  "\$71.2",
+                                  "\$829.8",
                                   style: TextStyle(
                                       fontSize: 18,
                                       color: Colors.red,
@@ -351,7 +332,7 @@ class CardPages extends StatelessWidget {
                                 horizontal: 30, vertical: 15)),
                         onPressed: () {},
                         child: const Text(
-                          'Edit Profile',
+                          'buy now',
                           style: TextStyle(
                               fontWeight: FontWeight.bold, fontSize: 20),
                         )),
